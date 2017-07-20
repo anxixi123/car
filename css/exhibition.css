@@ -1,0 +1,64 @@
+.clearfix:after {
+  display: block;
+  clear: both;
+  content: ''; }
+
+.exhibition {
+  width: 711px; 
+  margin-bottom: 150px;}
+  .exhibition .ex_top {
+    width: 100%;
+    height: 38px;
+    margin-right: 9px;
+    border-bottom: 1px solid #DCDCDC;
+    font-size: 12px;
+    font-weight: bold; }
+    .exhibition .ex_top > span {
+      padding-top: 16px; }
+  .exhibition .ex_content {
+    width: 100%;
+    margin-top: 13px; }
+    .exhibition .ex_content .car_uu {
+      width: 100%; }
+      .exhibition .ex_content .car_uu > li {
+        float: left;
+        margin: 0 27px 34px 27px; }
+        .exhibition .ex_content .car_uu > li > a > img {
+          width: 174px;
+          height: 127px;
+          border: 1px solid #9C9C9C;
+          padding: 3px; }
+        .exhibition .ex_content .car_uu > li > a > p {
+          height: 21px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          background: #7F7F7F; }
+  .exhibition .ex_bottom {
+    width: 100%; }
+    .exhibition .ex_bottom > ul {
+      width: 144px;
+      margin: 0 auto; }
+      .exhibition .ex_bottom > ul .ass {
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+        margin-top: -2px;
+        background: linear-gradient(#0A0A0A, #404040); }
+        .exhibition .ex_bottom > ul .ass > a {
+          color: #FFFFFF; }
+      .exhibition .ex_bottom > ul > li {
+        float: left;
+        width: 30px;
+        height: 30px;
+        border-radius: 5px;
+        margin-right: 5px;
+        line-height: 30px;
+        font-size: 14px;
+        text-align: center;
+        background: linear-gradient(#cccccc, #9A9A9A); }
+        .exhibition .ex_bottom > ul > li > a {
+          display: block;
+          color: #797979; }
+
+/*# sourceMappingURL=exhibition.css.map */

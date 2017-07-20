@@ -1,0 +1,46 @@
+.contact {
+  width: 726px;
+  }
+  .contact .contact_box {
+    padding-left: 27px;
+    padding-bottom: 32px; }
+    .contact .contact_box .contact_top {
+      border-bottom: 1px solid #dcdcdc; }
+      .contact .contact_box .contact_top .l_mine {
+        float: left;
+        margin-top: 12px;
+        margin-left: 6px;
+        line-height: 24px; }
+        .contact .contact_box .contact_top .l_mine img {
+          margin-right: 4px; }
+    .contact .contact_box .contact_contact {
+      padding-top: 19px; }
+      .contact .contact_box .contact_contact li {
+        margin-top: 15px; }
+        .contact .contact_box .contact_contact li h4 {
+          float: left; }
+          .contact .contact_box .contact_contact li h4 a img {
+            margin-left: 10px; }
+        .contact .contact_box .contact_contact li span {
+          color: 636363;
+          float: left; }
+      .contact .contact_box .contact_contact .list_1 {
+        margin-top: 0; }
+    .contact .contact_box .contact_bottom {
+      margin-top: 47px; 
+      margin-left: 32px; 
+      }
+      .contact .contact_box .contact_bottom a input {
+        width: 108px;
+        height: 27px;
+        border: 1px solid #bcbcbc;
+        background: #E6E6E6;
+        border-radius: 2px;
+        font-weight: bold; }
+      .contact .contact_box .contact_bottom p {
+        margin-top: 30px;
+        font-size: 14px; }
+      .contact .contact_box .contact_bottom .map {
+        margin-top: 18px; }
+
+/*# sourceMappingURL=contact.css.map */

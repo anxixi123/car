@@ -1,0 +1,33 @@
+{
+	"list":[
+		{"src":"car1.png","name":"新力帆SUV"},
+		{"src":"car2.png","name":"新力帆SUV"},
+		{"src":"car3.png","name":"新力帆SUV"},
+		{"src":"car1.png","name":"新力帆SUV"},
+		{"src":"car2.png","name":"新力帆SUV"},
+		{"src":"car3.png","name":"新力帆SUV"},
+		{"src":"car1.png","name":"新力帆SUV"},
+		{"src":"car2.png","name":"新力帆SUV"},
+		{"src":"car3.png","name":"新力帆SUV"},
+		{"src":"car1.png","name":"新力帆SUV"},
+		{"src":"car2.png","name":"新力帆SUV"},
+		{"src":"car3.png","name":"新力帆SUV"}
+	],
+	"hC_img":[
+		{"src":"hall1.png"}
+	],
+	"hC_minImg":[
+		{"src":"hall2.png"},
+		{"src":"hall2.png"},
+		{"src":"hall2.png"},
+		{"src":"hall2.png"}
+	],
+	"hC_right":[
+		"130000",
+		"2011-9-3 13:21:48"
+	],
+	"hall_Bo":[
+		{"src":"hall_banner.png"}
+	]
+	
+}

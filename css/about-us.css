@@ -1,0 +1,27 @@
+.outsidea {
+  width: 726px;}
+  .outsidea .within {
+  	width: 710px;
+  	margin: 0px 9px 0px 15px;
+    background-color: #fff; }
+    .outsidea .within .global {
+      /*padding: 16px 0px 7px 6px;*/
+      border-bottom: 1px solid #dcdcdc; }
+      .outsidea .within .global img {
+        float: left;
+        margin-right: 4px; }
+    .outsidea .within .list {
+      background-color: #fff;
+      padding: 15px 11px 0px 13px; }
+      .outsidea .within .list li p {
+        text-indent: 2em;
+        line-height: 24px; }
+      .outsidea .within .list li img {
+        width: 664px;
+        margin: 25px 0px 28px 4px; }
+    .outsidea .within .time {
+      background-color: #fff;
+      padding: 55px 0px 61px;
+      text-align: center; }
+
+/*# sourceMappingURL=about-us.css.map */

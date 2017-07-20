@@ -1,0 +1,100 @@
+.clearfix:after {
+  display: block;
+  clear: both;
+  content: ''; }
+
+.r_content {
+  width: 726px;
+  padding-bottom: 140px; }
+
+.global {
+  width: 701px;
+  margin-left: 15px;
+  margin-right: 9px;
+  border-bottom: 1px solid #dcdcdc; }
+
+.global img {
+  float: left;
+  margin-left: 5px;
+  margin-top: 16px;
+  margin-bottom: 7px; }
+
+.global h5 {
+  float: left;
+  margin-left: 5px;
+  margin-top: 18px;
+  margin-bottom: 8px; }
+
+.column {
+  width: 701px;
+  margin-left: 15px; }
+
+.column_top, .column_bottom {
+  width: 665px;
+  margin-left: 18px;
+  height: 159px;
+  border-bottom: 1px dashed #dcdcdc; }
+
+.column_top, .column_bottom {
+  padding-top: 10px;
+  padding-bottom: 20px; }
+
+.top_one {
+  float: left;
+  position: relative; }
+
+.img {
+  position: absolute;
+  top: 0px;
+  left: 0px; }
+
+.top_two {
+  float: left;
+  margin-left: 16px; }
+
+.txt_one {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 20px; }
+
+.txt_two {
+  font-size: 12px;
+  margin-bottom: 12px; }
+
+.txt_three {
+  font-size: 12px;
+  margin-bottom: 12px; }
+
+.top_two span {
+  font-size: 16px; }
+
+.txt_four {
+  font-size: 12px; }
+
+.top_three {
+  float: right;
+  margin-right: 34px; }
+
+.top_three p {
+  color: #a3a3a3;
+  font-size: 12px;
+  margin-top: 60px; }
+
+.inp {
+  width: 96px;
+  height: 28px;
+  background: linear-gradient(#828282, #323232);
+  border-radius: 4px;
+  color: white;
+  margin-top: 11px; }
+
+.inp1 {
+  width: 96px;
+  height: 28px;
+  background: linear-gradient(#cccccc, #9d9d9d);
+  border-radius: 4px;
+  color: white;
+  margin-top: 11px; }
+
+/*# sourceMappingURL=prize.css.map */

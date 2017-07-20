@@ -1,0 +1,67 @@
+.Promotional {
+  width: 710px;
+  margin-top: 14px; }
+
+.global:after {
+  display: block;
+  clear: both;
+  content: ''; }
+
+.global {
+  /*margin-left: 14px;*/
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 8px; }
+
+.nav-left {
+  float: left; }
+
+
+
+.nav-left img {
+  vertical-align: middle; }
+
+.nav-right {
+  float: right;
+  margin-right: 12px; }
+
+.car-xian {
+  width: 701px;
+  height: 38px; }
+
+.content_box {
+  text-align: center;
+  margin-top: 10px; }
+
+.content_1 {
+  text-align: center;
+  margin-top: 5px; }
+  .content_1 p {
+    font-size: 13px;
+    color: #666666; }
+  .content_1 span {
+    color: #FF0000; }
+
+#xian {
+  width: 600px;
+  border-bottom: 1px dashed #CCCCCC;
+  margin-left: 50px;
+  margin-top: 10px; }
+
+.banner_box {
+  width: 698px;
+  height: 276px;
+  text-align: center;
+  margin-top: 16px;
+  padding-top: 5px; }
+
+.banner_wz {
+  width: 698px;
+  height: 137px;
+  margin-top: 10px; }
+  .banner_wz p {
+    font-size: 14px;
+    color: #666666;
+    padding-top: 1px;
+    margin-left: 90px; }
+
+/*# sourceMappingURL=car.css.map */

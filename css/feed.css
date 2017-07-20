@@ -1,0 +1,118 @@
+.feed {
+  width: 726px;
+   }
+  .feed .feed_box .feed_top {
+    border-bottom: 1px solid #dcdcdc; }
+    .feed .feed_box .feed_top span {
+      float: left;
+      margin-top: 12px;
+      margin-left: 6px;
+      line-height: 24px; }
+      .feed .feed_box .feed_top span img {
+        margin-right: 4px; }
+      .feed .feed_box .feed_top span strong {
+        margin-top: 16px; }
+    .feed .feed_box .feed_top .publish {
+      margin-top: 12px;
+      padding: 3px 3px 0;
+      border: 1px solid #e7e8e7;
+      border-bottom: none;
+      border-radius: 8px 8px 0 0;
+      float: right; }
+      .feed .feed_box .feed_top .publish div {
+        padding: 4px 8px 5px 11px;
+        background: #ececec;
+        border-radius: 5px 5px 0 0; }
+  .feed .feed_box .feed_cont {
+    padding: 24px 50px 0 32px; }
+    .feed .feed_box .feed_cont .list_1 {
+      padding-bottom: 20px;
+      border-bottom: 1px dotted #ccc; }
+      .feed .feed_box .feed_cont .list_1 .l_evalu {
+        float: left;
+        margin-right: 42px; }
+        .feed .feed_box .feed_cont .list_1 .l_evalu p {
+          margin-top: 17px;
+          color: #999; }
+        .feed .feed_box .feed_cont .list_1 .l_evalu .envir {
+          margin-top: 0; }
+      .feed .feed_box .feed_cont .list_1 .r_cont {
+        width: 516px;
+        float: left;
+        color: #999; }
+        .feed .feed_box .feed_cont .list_1 .r_cont p {
+          margin-top: 17px;
+          font-weight: bold; }
+        .feed .feed_box .feed_cont .list_1 .r_cont .time li {
+          float: left;
+          margin-right: 8px; }
+          .feed .feed_box .feed_cont .list_1 .r_cont .time li .num {
+            color: #009999; }
+        .feed .feed_box .feed_cont .list_1 .r_cont .time a {
+          color: #999; }
+        .feed .feed_box .feed_cont .list_1 .r_cont .replay {
+          padding: 8px 24px 8px 10px;
+          background: #fafafa;
+          border: 1px solid #ccc;
+          line-height: 23px;
+          margin-top: 9px; }
+          .feed .feed_box .feed_cont .list_1 .r_cont .replay .rep_con {
+            margin-top: 0;
+            font-weight: normal;
+            color: #999; }
+          .feed .feed_box .feed_cont .list_1 .r_cont .replay .rep_tit {
+            color: #ff3333;
+            font-weight: bold; }
+    .feed .feed_box .feed_cont .list_2 {
+      padding-top: 20px; }
+      .feed .feed_box .feed_cont .list_2 .l_evalu {
+        float: left;
+        margin-right: 42px; }
+        .feed .feed_box .feed_cont .list_2 .l_evalu p {
+          margin-top: 17px;
+          color: #999; }
+        .feed .feed_box .feed_cont .list_2 .l_evalu .envir {
+          margin-top: 0; }
+      .feed .feed_box .feed_cont .list_2 .r_cont {
+        width: 516px;
+        float: left;
+        color: #999; }
+        .feed .feed_box .feed_cont .list_2 .r_cont p {
+          margin-top: 17px;
+          font-weight: bold; }
+        .feed .feed_box .feed_cont .list_2 .r_cont .time li {
+          float: left;
+          margin-right: 8px; }
+          .feed .feed_box .feed_cont .list_2 .r_cont .time li .num_1 {
+            color: #009999; }
+        .feed .feed_box .feed_cont .list_2 .r_cont .time a {
+          color: #999; }
+        .feed .feed_box .feed_cont .list_2 .r_cont .replay {
+          padding: 8px 24px 8px 10px;
+          background: #fafafa;
+          border: 1px solid #ccc;
+          line-height: 23px;
+          margin-top: 9px; }
+          .feed .feed_box .feed_cont .list_2 .r_cont .replay .rep_con_1 {
+            margin-top: 0;
+            font-weight: normal; }
+          .feed .feed_box .feed_cont .list_2 .r_cont .replay .rep_tit_1 {
+            color: #ff3333;
+            font-weight: bold; }
+  .feed .feed_box .feed_bottom {
+    margin: 80px 0 15px 262px; }
+    .feed .feed_box .feed_bottom li {
+      float: left;
+      margin-right: 5px;
+      padding: 10px 15px;
+      background: #B1B1B1;
+      font-size: 14px;
+      border-radius: 3px; }
+      .feed .feed_box .feed_bottom li a {
+        color: #797979; }
+    .feed .feed_box .feed_bottom .list_3 {
+      background: #0f0f0f; }
+      .feed .feed_box .feed_bottom .list_3 a {
+        color: #fff; }
+
+/*# sourceMappingURL=feed.css.map */
